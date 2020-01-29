@@ -48,7 +48,7 @@ DICT_6X6_1000
 DICT_7X7_50	 
 DICT_7X7_100	 
 DICT_7X7_250	 
-DICT_7X7_1000	 
+	 
 DICT_ARUCO_ORIGINAL
 Reference: http://hackage.haskell.org/package/opencv-extra-0.2.0.1/docs/OpenCV-Extra-ArUco.html
 Reference: https://docs.opencv.org/3.4.2/d9/d6a/group__aruco.html#gaf5d7e909fe8ff2ad2108e354669ecd17
